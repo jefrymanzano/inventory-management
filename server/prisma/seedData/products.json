@@ -1,0 +1,247 @@
+[
+  {
+    "productId": "d35623ee-bef6-42b2-8776-2f99f8bb4782",
+    "name": "Redhorse",
+    "price": 59.60,
+    "rating": 1.25,
+    "stockQuantity": 32
+  },
+  {
+    "productId": "8ac1ac77-7358-425e-be16-0bdde9f02e59",
+    "name": "Sting",
+    "price": 28.00,
+    "rating": 1.56,
+    "stockQuantity": 22
+  },
+  {
+    "productId": "1afc136b-4d9f-4e8e-aace-8e1df908a404",
+    "name": "Cigarretes",
+    "price": 10.50,
+    "rating": 1.73,
+    "stockQuantity": 50
+  },
+  {
+    "productId": "af84cc12-4fea-4f58-aece-f2ce92ca9580",
+    "name": "Pancit Canton",
+    "price": 15.00,
+    "rating": 1.09,
+    "stockQuantity": 23
+  },
+  {
+    "productId": "86e3bb1c-2f5d-4774-98f3-4df7cddd0a0f",
+    "name": "Coca Cola Mismo",
+    "price": 15.50,
+    "rating": 1.8,
+    "stockQuantity": 30
+  },
+  {
+    "productId": "26b017c6-06d8-443f-9b4a-d6b1cee6f4c0",
+    "name": "Coca Cola Kasalo",
+    "price": 30.00,
+    "rating": 2.27,
+    "stockQuantity": 25
+  },
+  {
+    "productId": "440c9e80-6bf8-4eb3-b2d2-f81936d67de3",
+    "name": "Candies",
+    "price": 2.50,
+    "rating": 3.46,
+    "stockQuantity": 234
+  },
+  {
+    "productId": "98255f4e-40a6-470f-89a5-0792729f8947",
+    "name": "Surf Powder",
+    "price": 10.50,
+    "rating": 1.82,
+    "stockQuantity": 20
+  },
+  {
+    "productId": "2a339fb2-f9f3-43bc-a85a-b217a0a38f12",
+    "name": "Tide bar",
+    "price": 15.25,
+    "rating": 2.17,
+    "stockQuantity": 20
+  },
+  {
+    "productId": "8a8391b2-b4ac-4847-b652-66ffd8d65875",
+    "name": "Asukal",
+    "price": 25.50,
+    "rating": 1.2,
+    "stockQuantity": 30
+  },
+  {
+    "productId": "be2157fb-7454-405e-9511-bf7ba81b7726",
+    "name": "Ice",
+    "price": 3.0,
+    "rating": 1.65,
+    "stockQuantity": 9
+  },
+  {
+    "productId": "fdf1ba3d-fa06-4ce5-90ff-d081c5d37176",
+    "name": "Biogesic",
+    "price": 10.00,
+    "rating": 2.39,
+    "stockQuantity": 19
+  },
+  {
+    "productId": "afded6df-058f-477d-9878-e0e0b1d3dff3",
+    "name": "Neozep",
+    "price": 8.50,
+    "rating": 1.38,
+    "stockQuantity": 23
+  },
+  {
+    "productId": "daa29167-82a7-474b-9687-b8b903e7ec69",
+    "name": "Greatest White",
+    "price": 15.50,
+    "rating": 1.87,
+    "stockQuantity": 20
+  },
+  {
+    "productId": "ccb83982-71f3-4497-bad8-7e64c6920dc6",
+    "name": "Nescafe 3n1",
+    "price": 13.00,
+    "rating": 1.62,
+    "stockQuantity": 24
+  },
+  {
+    "productId": "1936d406-e89e-40e4-bff7-1827532269d4",
+    "name": "Creamer",
+    "price": 12.50,
+    "rating": 2.21,
+    "stockQuantity": 21
+  },
+  {
+    "productId": "c849a535-5f8b-47e3-889c-015693a644ac",
+    "name": "Zesto",
+    "price": 12.50,
+    "rating": 2.49,
+    "stockQuantity": 19
+  },
+  {
+    "productId": "0c3e80ee-59b3-4fc4-b760-8b07acc2d3ae",
+    "name": "Yakult",
+    "price": 15.66,
+    "rating": 3.53,
+    "stockQuantity": 26
+  },
+  {
+    "productId": "d8f5bee3-f3eb-4071-a124-6b857e0fd798",
+    "name": "Emperador",
+    "price": 180.88,
+    "rating": 2.71,
+    "stockQuantity": 12
+  },
+  {
+    "productId": "8d15de86-0e4a-4414-9166-7a33610202d3",
+    "name": "Clamshell ",
+    "price": 17.1,
+    "rating": 4.79,
+    "stockQuantity": 60
+  },
+  {
+    "productId": "ea8fd0b9-c2d9-4d43-9c23-44cb99d079bb",
+    "name": "Paminta",
+    "price": 1.04,
+    "rating": 1.11,
+    "stockQuantity": 50
+  },
+  {
+    "productId": "25d01c80-bca1-4a00-b1d0-0fbd39ff9e89",
+    "name": "Suka",
+    "price": 18,
+    "rating": 2.98,
+    "stockQuantity": 15
+  },
+  {
+    "productId": "1d6df6e3-b7ea-4507-9d66-87c6ee8ed5b9",
+    "name": "Redhorse beer",
+    "price": 163.6,
+    "rating": 4.81,
+    "stockQuantity": 341530
+  },
+  {
+    "productId": "000a8c23-5bca-436c-a216-4e747a94c511",
+    "name": "Sting small    ",
+    "price": 28.27,
+    "rating": 4.6,
+    "stockQuantity": 967173
+  },
+  {
+    "productId": "c5b600dc-6bfb-492a-b335-c3cc8c707959",
+    "name": "Marlboro",
+    "price": 12.37,
+    "rating": 4.13,
+    "stockQuantity": 162208
+  },
+  {
+    "productId": "9d5fafbc-312b-47e8-ada1-283918f0c3b5",
+    "name": "Gin",
+    "price": 50.82,
+    "rating": 1.74,
+    "stockQuantity": 33
+  },
+  {
+    "productId": "0114d5d4-ae48-46fa-b0ca-afe60eb88add",
+    "name": "Mantika",
+    "price": 9.2,
+    "rating": 4.13,
+    "stockQuantity": 36
+  },
+  {
+    "productId": "e5b0da8c-148d-4680-b262-8609fb8a10da",
+    "name": "Rc Naliit",
+    "price": 14.1,
+    "rating": 4.5,
+    "stockQuantity": 63
+  },
+  {
+    "productId": "2be5b024-2c96-4f29-912c-c6f36353f799",
+    "name": "Toyo",
+    "price": 18.81,
+    "rating": 4.06,
+    "stockQuantity": 35
+  },
+  {
+    "productId": "fcf2e432-62a3-4b6f-a34d-36e42a12272e",
+    "name": "Sugar",
+    "price": 25.97,
+    "rating": 4.34,
+    "stockQuantity": 88
+  },
+  {
+    "productId": "fc4c81e5-f1ac-40f5-8c6f-da3fbad5599d",
+    "name": "Nescafe",
+    "price": 12.11,
+    "rating": 4.49,
+    "stockQuantity": 89
+  },
+  {
+    "productId": "07238d8e-0037-4972-87ca-0df206ee3e42",
+    "name": "Shampoo",
+    "price": 12.99,
+    "rating": 4.42,
+    "stockQuantity": 63
+  },
+  {
+    "productId": "154b7860-23a2-4564-ad99-1745ab7122ef",
+    "name": "Itlog",
+    "price": 8.45,
+    "rating": 4.34,
+    "stockQuantity": 45
+  },
+  {
+    "productId": "8d4bf814-65d4-4df4-84cc-68911d925fdf",
+    "name": "Safeguard",
+    "price": 15.6,
+    "rating": 4.79,
+    "stockQuantity": 63
+  },
+  {
+    "productId": "a52bf1bd-3d35-4cd2-849a-354e3952e2d2",
+    "name": "American Century Plant",
+    "price": 969.47,
+    "rating": 3.66,
+    "stockQuantity": 24
+  }
+]
